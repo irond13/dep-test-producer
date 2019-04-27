@@ -1,0 +1,27 @@
+{
+  "name": "dep-test-producer",
+  "version": "0.0.1",
+  "description": "",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "@types/lodash": "^4.14.123",
+    "lodash": "^4.17.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irond13/dep-test-producer.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/irond13/dep-test-producer/issues"
+  },
+  "homepage": "https://github.com/irond13/dep-test-producer#readme"
+}
